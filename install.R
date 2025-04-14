@@ -1,0 +1,22 @@
+install.packages(
+  pkgs = c(
+    "tidyverse",
+    "tidytext",
+    "Matrix",
+    "textstem",
+    "tokenizers",
+    "textclean",
+    "stringi",
+    "stringr",
+    "topicmodels",
+    "topicdoc",
+    "seededlda",
+    "quanteda",
+    "text2vec",
+    "text2map",
+    "word2vec",
+    "gutenbergr",
+    "sentimentr",
+    "lexicon"
+  )
+)
