@@ -17,6 +17,9 @@ install.packages(
     "word2vec",
     "gutenbergr",
     "sentimentr",
-    "lexicon"
+    "lexicon",
+    "rvest",
+    "xml2",
+    "jsonlite"
   )
 )
